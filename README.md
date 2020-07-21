@@ -6,7 +6,13 @@ This code will not run outside the Robotarium or its simulator's environment. Th
 # Simulations and Test Runs
 The following videos contain test runs of the code being executed either in the simulation or on the actual robots in the robotarium. 
 
-In both videos the following is true of the graphics being visuals:
+1. Robotarium Test: https://youtu.be/rFuslhNu4nY. This is a test of an earlier version of the code being run on the robots in the robotarium. 
+
+2. Collision Avoidance Test: This is the current version of the code being run in a simulation where swarms are likely to cross each other paths. The resulting video demonstrates the robots ability to avoid one another. 
+
+3. Basic Behavoir Test: The following simulation clearly demonstrates the robot's ability to perform basic swarm behavoir (intra-flock collision avoidance, flock centering, and velocity matching) clearly due to the reduced number of obstacles.  
+
+In all videos the following is true of the graphics being visuals:
 
 1. There are two swarms identified by the different colored circles being projected around them. The red swarm is following the robot with a black rung around it. The cyan swarm is following the robot with a pale blue ring around it. 
 

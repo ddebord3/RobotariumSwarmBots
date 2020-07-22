@@ -8,7 +8,7 @@ The following videos contain test runs of the code being executed either in the 
 
 1. Basic Behavoir Test: https://youtu.be/yPNBN1Z8EJ8. The following simulation clearly demonstrates the robot's ability to perform basic swarm behavoir (intra-flock collision avoidance, flock centering, and velocity matching) clearly due to the reduced number of obstacles.  
 
-2. Collision Avoidance Test: https://youtu.be/O1DW58kqF9Y. This is the current version of the code being run in a simulation where swarms are likely to cross each other paths. The resulting video demonstrates the robots ability to avoid one another. 
+2. Collision Avoidance Test: https://youtu.be/roOqXZialus. This demo shows the ability of the robots to avoid obstacles and other swarms then recover to normal behavoir. 
 
 3. Robotarium Test: https://youtu.be/rFuslhNu4nY. This is a test of an earlier version of the code being run on the robots in the robotarium. 
 
